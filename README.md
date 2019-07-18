@@ -20,17 +20,17 @@ git clone https://github.com/jumpjet91/cyberload.git cyberload
 ```
 start cyberload
 ```
-###Setting 
+## Setting 
 Go in index.html and replace this line
 ```
-			var AudioFile = 'audio.ogg';
-			var BackgroundFile = 'background.png';
-			var LogoFile = 'logo.png';
-			var ColorWawe = '#10f5ff';
-			var AudioVolume = 0.2;
-			var Discord = 'https://discord.gg/XXXXXXX';
+var AudioFile = 'audio.ogg';
+var BackgroundFile = 'background.png';
+var LogoFile = 'logo.png';
+var ColorWawe = '#10f5ff';
+var AudioVolume = 0.2;
+var Discord = 'https://discord.gg/XXXXXXX';
 ```
-#Video DEMO
+# Video DEMO
 ```
 https://streamable.com/sbqti
 ```
