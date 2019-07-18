@@ -36,8 +36,9 @@ https://streamable.com/sbqti
 ```
 # Legal
 ### License
+```
 Powered by jumpjet
 Fivem profile https://forum.fivem.net/u/jumpjet/
 Discord BlackFox91#0053
-
+```
 Don't reshare or change credit 
